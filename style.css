@@ -1,0 +1,21 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card-title {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+
+canvas {
+    width: 100% !important;
+    max-height: 300px;
+}
